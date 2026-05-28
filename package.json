@@ -1,0 +1,12 @@
+{
+  "name": "wl",
+  "version": "0.1.0",
+  "description": "Worklog — track daily tasks and PRs from the terminal",
+  "type": "module",
+  "bin": {
+    "wl": "./src/cli.ts"
+  },
+  "engines": {
+    "node": ">=22.6.0"
+  }
+}
